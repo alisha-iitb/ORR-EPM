@@ -1,5 +1,0 @@
-Export these PNGs from your Colab Drive (ORR_EPM_Persistent_Data/output) into this folder:
-  FIG1_clutter_comparison_complete.png
-  FIG2_roc_dense_fatty.png
-  FIG3_representative_recons.png
-  LE_boxplot_dense_detected.png

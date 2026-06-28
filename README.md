@@ -1,6 +1,6 @@
 # Dense-Breast Evaluation & Reference-Free Clutter Suppression for Radar-Based Microwave Imaging
 
-Fork of [TysonReimer/ORR-EPM](https://github.com/TysonReimer/ORR-EPM). The upstream ORR / ORR-EPM-T framework is used **as the reconstruction engine**; this fork adds an evaluation study on top of it. Produced for a Dual Degree Project (DDP) thesis.
+Fork of [TysonReimer/ORR-EPM](https://github.com/TysonReimer/ORR-EPM). The upstream ORR / ORR-EPM-T framework is used **as the reconstruction engine**; this fork adds an evaluation of dense (BI-RADS 3) breast phantoms under reference-free clutter suppression (SVD, PCA, and leakage-corrected leave-one-out PCA), benchmarked against the reference-subtraction baseline with threshold-free ROC/AUC and bootstrap confidence intervals. Produced for a Dual Degree Project (DDP) thesis.
 
 ## Overview
 
